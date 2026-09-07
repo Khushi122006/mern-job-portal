@@ -12,7 +12,7 @@ app.get("/api/jobs", (req, res) => {
     res.json([
         {
             title: "Software Developer",
-            company: "Microsoft",
+            company: "Google",
             location: "Noida"
         },
         {
